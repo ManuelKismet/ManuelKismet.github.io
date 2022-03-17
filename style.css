@@ -183,6 +183,8 @@ aside > img:hover{
 }
 
 h4{
+    height: fit-content;
+    width: fit-content;
     display: inline-block;
     margin-left: 80px;
     margin-top: 80px;
