@@ -135,11 +135,16 @@ section{
 footer{
     border-top: 2px solid whitesmoke;
     margin-top: 200px;
+
 }
 
+/*.caf{
+    margin-left: 50px;
+}
+*/
 #appreciation, #contact, #form{
     display: inline-block;
-    margin: 20px 0px 0px 125px;
+    margin: 20px 0px 0px 170px;
     text-align: center;
 }
 #contact > a{
@@ -153,7 +158,7 @@ footer{
     width: 450px;
     height: 600px;
     display: inline-block;
-    margin: 40px 5px 5px 120px;
+    margin: 40px 5px 5px 130px;
     border: 2px solid rgb(66, 66, 66);
 }
 
@@ -179,7 +184,7 @@ aside > img:hover{
 
 h4{
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 80px;
     margin-top: 80px;
 }
 
@@ -188,11 +193,13 @@ h4{
     margin-top: 15px;
 }
 
-details{
+blockquote{
+    margin: 0px;
     width: inherit;
     height: 150px;
-    text-align: left;
-    overflow: scroll;
+    text-align: justify;
+    overflow: auto;
+    border-bottom: 1px solid orangered;
 }
 
 .article{
