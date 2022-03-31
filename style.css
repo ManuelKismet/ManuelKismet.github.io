@@ -67,7 +67,7 @@ header button:hover{
 }
 
 .pfcolumn{
-
+    height: 400px;
     display: inline-block;
     box-sizing: border-box;
     margin-top: 100px;
@@ -144,7 +144,7 @@ footer{
 */
 #appreciation, #contact, #form{
     display: inline-block;
-    margin: 20px 0px 0px 170px;
+    margin: 20px 0px 0px 150px;
     text-align: center;
 }
 #contact > a{
