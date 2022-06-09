@@ -147,6 +147,10 @@ footer{
     margin: 20px 0px 0px 150px;
     text-align: center;
 }
+
+#form > label{
+    margin-bottom: 10px;
+}
 #contact > a{
     color: whitesmoke;
     text-decoration-color: orangered;
