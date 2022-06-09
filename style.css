@@ -148,9 +148,12 @@ footer{
     text-align: center;
 }
 
-#form > label{
-    margin-bottom: 10px;
-}
+/*#form > form > label{
+    border: solid 2px red;
+    height: fit-content;
+    margin-bottom: 50px;
+    }
+*/
 #contact > a{
     color: whitesmoke;
     text-decoration-color: orangered;
