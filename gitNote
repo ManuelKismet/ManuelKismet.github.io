@@ -11,3 +11,7 @@ Renaming a branch name git brnach -m <name>
 git remove --cache <file> to remove added file path
 
 git restore --stage <file> to unstage a file
+
+sudo apt install gh
+gh auth login
+then follow instructions to authenticate with https in browser, remember to copy the code.
