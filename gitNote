@@ -1,0 +1,13 @@
+git init initailiazes empty git repo with the hiddin .git dir
+
+using master as the name for the initial branch name
+
+To configure a new branch name  git config --global init.defaultBranch <name>
+commone names are " main , trunk , development".
+
+Renaming a branch name git brnach -m <name>
+
+
+git remove --cache <file> to remove added file path
+
+git restore --stage <file> to unstage a file
