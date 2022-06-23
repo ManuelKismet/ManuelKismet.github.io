@@ -1,4 +1,4 @@
 function submitemail(){
-	var addr = "emailAddress"
-	alert(addr)
+	//var addr = "emailAddress"
+	alert("hello")
     }
