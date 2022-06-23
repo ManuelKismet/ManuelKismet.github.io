@@ -1,5 +1,5 @@
 function submitemail(){
-	var addr = document.getElementById("emailAddress")
+	var addr = document.getElementById("emailAddress").value
 	alert("mello")
-	alert(addr.innerHTML)
+	alert(addr)
     }
