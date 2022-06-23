@@ -4,5 +4,6 @@
                 s.WriteLine('Hello');
                 s.Close();
 }
-
-alert("hello")*/
+*/
+function alet(){
+	alert("hello")}
